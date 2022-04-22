@@ -33,15 +33,6 @@
 			]
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "OculusOpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -52,6 +43,10 @@
 		},
 		{
 			"Name": "MIDIDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "LIV",
 			"Enabled": true
 		}
 	],

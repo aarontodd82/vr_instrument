@@ -48,6 +48,10 @@
 		{
 			"Name": "LIV",
 			"Enabled": true
+		},
+		{
+			"Name": "TimeSynth",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
